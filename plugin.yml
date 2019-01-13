@@ -1,0 +1,10 @@
+name: WeChat_JumpJump
+main: WeChat_JumpJump\Main
+version: "1.0.0"
+api: ["1.0.0","2.0.0","3.0.0"]
+author: "Teaclon"
+load: POSTWORLD
+
+commands:
+  start:
+    description: start script.
