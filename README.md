@@ -1,0 +1,2 @@
+# JumpJumpHelper
+这个项目以PocketMine-MP为底层系统作为php的驱动环境，本项目采用该核心的模块拓展功能实现原本的项目功能。欢迎尝试~
